@@ -1,0 +1,45 @@
+.h1 {
+    background-color:#055590;
+    color: white; 
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+html {
+    background-color:#C1F7F9;
+    min-height: 100%;
+    background-image: url("https://wallpapertag.com/wallpaper/full/d/b/6/255909-vertical-minimalistic-wallpaper-3840x2160-images.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+body {
+    background-color: transparent;
+}
+
+#pregunta {
+    text-transform: uppercase;
+}
+
+select {
+    width: 200px;
+    appearance: none;
+    height: 220px;
+    overflow: hidden;
+    text-align: center;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+option {
+    font-weight: bold;
+    background-color: white;
+    margin: 3px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
